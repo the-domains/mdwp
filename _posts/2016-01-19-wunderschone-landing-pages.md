@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T18:01:44.792Z'
-dateModified: '2016-01-19T18:01:40.431Z'
+datePublished: '2016-01-19T18:05:31.287Z'
+dateModified: '2016-01-19T18:05:26.440Z'
 title: Wunderschöne Landing-Pages
 author: []
 sourcePath: _posts/2016-01-19-wunderschone-landing-pages.md
@@ -33,3 +33,8 @@ Insbesondere Landing-Pages müssen schnell erstellt und Online sein.
 Aber darunter darf die Qualität nicht leiden.
 Mit dem Technologie-Stack, den wir bei mdwp nutzen, ist das alles gewährleistet.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc61369e-9702-432a-972d-6172f89b8e57.jpg)
+
+## Einfach pflegbare Landing-Pages
+
+Mit unserem Static Site Stack sind Seiten wie diese sehr einfach zu editieren.  
+Jeder Textblock ist mit einem Online-Editor erreichbar und einfach zu pflegen.
