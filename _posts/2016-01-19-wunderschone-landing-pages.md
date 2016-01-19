@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T17:42:52.260Z'
+datePublished: '2016-01-19T17:42:52.471Z'
 dateModified: '2016-01-19T17:42:42.491Z'
 title: Wunderschöne Landing-Pages
 author: []
