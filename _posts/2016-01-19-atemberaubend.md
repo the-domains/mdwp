@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T22:17:02.211Z'
-dateModified: '2016-01-19T22:16:57.498Z'
+datePublished: '2016-01-19T22:20:43.562Z'
+dateModified: '2016-01-19T22:20:36.906Z'
 title: Atemberaubend
 author: []
 sourcePath: _posts/2016-01-19-atemberaubend.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Atemberaubend
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7566dd4bf2750b18df2bc6c414c0069c5c44c41.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0d834830ecadaf89f2b19f1040dad7089600924.jpg)
 
 Atemberaubende Augenblicke an den schönsten Orten, die Ihre Kunden nicht vergessen.   
 Das sollte Ihre Website auch sein - ein schöner Ort.
