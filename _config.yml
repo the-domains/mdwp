@@ -1,7 +1,7 @@
 name: mdwp
 favicon: null
 layout_spectrum: 0.35249
-typography_spectrum: 0.23776
+typography_spectrum: 0.31928
 title: 'mdwp - Digital Consulting & Services'
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9e122d'
-    - '#ecf1af'
-    - '#020401'
-    - '#26441e'
-    - '#63bc4e'
-  brandStrength: 1
+    - '#000000'
+    - '#414046'
+    - '#66656a'
+    - '#f1f0ee'
+    - '#a6a2a3'
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 1
